@@ -1,2 +1,6 @@
 # hello-world
-I'm just trying to learn some web programming
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript (that's what I'm ade of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
